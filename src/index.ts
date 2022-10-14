@@ -27,7 +27,7 @@ const server = http.createServer((request, response) => {
     })
     .on('end', async() => {
         const requestBody = Buffer.concat(body).toString()
-        await graphqlServer.handleRequest({
+        await graphqlServer.handleRequestAndSendResponse({
             headers: request.headers,
             url: request.url,
             method: request.method,
