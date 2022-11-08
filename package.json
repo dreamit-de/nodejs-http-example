@@ -29,7 +29,7 @@
     "typescript": "4.8.4"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "file:dreamit-graphql-server-3.0.0.tgz",
+    "@dreamit/graphql-server": "^3.0.0",
     "graphql": "^16.6.0"
   }
 }
