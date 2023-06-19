@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sgohlke/nodejs-http-example#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.12"
+    "@sgohlke/ts-base-dependencies": "1.0.13"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.2.3",
