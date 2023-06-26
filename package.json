@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.2.3",
-    "graphql": "16.6.0"
+    "graphql": "16.7.1"
   }
 }
