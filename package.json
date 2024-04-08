@@ -24,7 +24,7 @@
     "@sgohlke/ts-base-dependencies": "1.0.27"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.8.0",
+    "@dreamit/graphql-server": "4.8.1",
     "graphql": "16.8.1"
   }
 }
