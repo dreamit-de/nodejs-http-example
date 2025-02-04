@@ -6,7 +6,7 @@ import {
 import { 
     userSchema, 
     userSchemaResolvers 
-} from './ExampleSchemas'
+} from '@dreamit/graphql-testing'
 
 const graphqlServer = new GraphQLServer(
     {
