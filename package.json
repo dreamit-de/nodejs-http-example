@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/sgohlke/nodejs-http-example#readme",
   "devDependencies": {
-    "@types/node": "22.13.4",
+    "@types/node": "22.13.8",
     "oxlint": "0.15.12",
-    "typescript": "5.7.3"
+    "typescript": "5.8.2"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.12.4",
