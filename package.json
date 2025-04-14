@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/sgohlke/nodejs-http-example#readme",
   "devDependencies": {
-    "@types/node": "22.14.0",
-    "oxlint": "0.16.5",
+    "@types/node": "22.14.1",
+    "oxlint": "0.16.6",
     "typescript": "5.8.3"
   },
   "dependencies": {
